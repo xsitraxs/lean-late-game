@@ -1,0 +1,18 @@
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Логи и сейвы HoI4, замеры
+*.log
+*.sav
+*.rtt
+benchmarks/raw/
+
+# Архивы
+*.zip
+*.7z
+
+# НИКОГДА не коммитим ванильные файлы игры (авторские права Paradox)
+_vanilla/
